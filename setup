@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+sh mac.sh
+sh brew.sh
+sh ruby.sh
